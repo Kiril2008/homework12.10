@@ -1,3 +1,7 @@
+//завдання перше main1.cpp 
+// завдання друге ->output->main2.cpp
+
+
 #include <iostream>
 #include <vector>
 #include <string>
